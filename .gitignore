@@ -1,0 +1,6 @@
+/.git
+/.vs
+/doxygen_request_just_namespaces/Win32
+/doxygen_request_just_namespaces/x64
+/Win32
+/x64
